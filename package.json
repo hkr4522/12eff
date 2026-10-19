@@ -1,0 +1,12 @@
+{
+  "name": "mx-resolver-vercel-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MX Player TV show and episode metadata resolver for Vercel Functions",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/mx.js": {
+      "maxDuration": 30
+    }
+  }
+}
